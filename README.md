@@ -2,7 +2,7 @@
 
 Hybrid credit–equity pricing of a Credit Default Swap (CDS) on a convertible bond, combining a reduced-form default intensity model with Monte-Carlo simulation of the underlying equity.
 
-Academic project (M2 Actuariat, ISFA), supervised by Prof. Ying Jiao. Co-authored with C. A. D. Kouamé and S. Ouattara.
+Academic project (M2 Actuariat, ISFA), Co-authored with C. A. D. Kouamé and S. Ouattara.
 
 ## What this does
 
